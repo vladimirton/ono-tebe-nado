@@ -41,9 +41,6 @@
 	width: 135px;
 }
 
-.header__logo-image {
-}
-
 .address {
 	font-style: normal;
 	font-size: 18px;
@@ -132,9 +129,6 @@
 	font-weight: 400;
 	line-height: 28px;
 	margin-left: 78px;
-}
-
-.cover__description-text {
 	word-spacing: 18px;
 }
 
@@ -307,16 +301,6 @@
 	letter-spacing: 0.2px;
 }
 
-.about__text {
-	color: #000;
-	font-family: Raleway;
-	font-size: 20px;
-	font-style: normal;
-	font-weight: 400;
-	line-height: 1.2;
-	letter-spacing: 0.2px;
-}
-
 .footer {
 	display: grid;
 	grid-template-columns: 1fr auto 1fr;
@@ -347,13 +331,7 @@
 	justify-self: right;
 }
 
-.footer__social-list-item {
-}
-
 .footer__social-link {
 	display: block;
 	width: 48px;
-}
-
-.footer__social-icon {
 }
