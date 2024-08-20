@@ -178,6 +178,7 @@
 	text-decoration: none;
 	height: 100%;
 }
+
 .card {
 	position: relative;
 	height: 100%;
@@ -188,8 +189,9 @@
 	padding: 51px 40px 48px 40px;
 	background-size: cover;
 	background-position: center;
-	z-index: -2; 
+	z-index: -2;
 }
+
 .card_type_film {
 	background-image: url(../images/card-lot-01.jpg);
 }
